@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\0x00-hello_world",
+    "\\0x08-recursion",
+    "\\0x0B-malloc_free",
+    "\\0x0F-function_pointers"
+  ],
+  "SelectedNode": "\\0x00-hello_world\\6-size.c",
+  "PreviewInSolutionExplorer": false
+}
